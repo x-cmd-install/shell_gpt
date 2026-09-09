@@ -7,7 +7,7 @@ A command-line productivity tool powered by AI large language models like GPT-5,
 - **Latest release**: `1.5.1` (2026-05-06)
 - **Last commit**: 2026-07-02
 - **License**: MIT
-- **Stars**: 12275 · **Forks**: 978 · **Open issues**: 390 · **Contributors**: 47
+- **Stars**: 12275 · **Forks**: 977 · **Open issues**: 390 · **Contributors**: 47
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/shell_gpt> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:07:32Z._
+_Last regenerated: 2026-09-09T19:24:24Z._
