@@ -7,7 +7,7 @@ about:
   latestVersion: "1.5.1"
   latestRelease: "1.5.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:07:28Z
+  collectedAt: 2026-09-09T19:24:18Z
 timeline:
   created: 2023-01-18
   lastCommit: 2026-07-02
@@ -17,7 +17,7 @@ timeline:
 popularity:
   star: 12275
   watcher: 95
-  fork: 978
+  fork: 977
   release: 31
   contributor: 47
   pullRequest: 258
@@ -85,7 +85,7 @@ total:
   commit: 130
 ---
 path: /home/runner/.x-repo/github.com/TheR1D/shell_gpt
-collectedAt: 2026-09-09T05:07:29Z
+collectedAt: 2026-09-09T19:24:20Z
 loc:
   Python:
     code: 2232
