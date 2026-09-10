@@ -22,11 +22,19 @@ x install shell_gpt
 - **Latest**: `1.5.1` (2026-05-06)
 - **Last commit**: 2026-07-02
 - **Assets in release**: 4
-- **Published**: 2026-05-06T04:29:55Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [shell_gpt-1.5.1-py3-none-any.whl](https://github.com/TheR1D/shell_gpt/releases/download/1.5.1/shell_gpt-1.5.1-py3-none-any.whl) | 29.5 KiB | `other` |
+| [shell_gpt-1.5.1-py3-none-any.whl.sigstore.json](https://github.com/TheR1D/shell_gpt/releases/download/1.5.1/shell_gpt-1.5.1-py3-none-any.whl.sigstore.json) | 9.0 KiB | `other` |
+| [shell_gpt-1.5.1.tar.gz](https://github.com/TheR1D/shell_gpt/releases/download/1.5.1/shell_gpt-1.5.1.tar.gz) | 28.5 KiB | `native/unknown` |
+| [shell_gpt-1.5.1.tar.gz.sigstore.json](https://github.com/TheR1D/shell_gpt/releases/download/1.5.1/shell_gpt-1.5.1.tar.gz.sigstore.json) | 9.0 KiB | `other` |
 
 ## Popularity
 
-- **Stars**: 12,276 · **Forks**: 977 · **Open issues**: 390 · **Contributors**: 47
+- **Stars**: 12,276 · **Forks**: 976 · **Open issues**: 390 · **Contributors**: 47
 
 ## Totals (cumulative)
 
@@ -57,8 +65,8 @@ Total: **2,348** lines of code across **35** files in the top 5 languages.
 Install metadata for shell_gpt lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `shell_gpt` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/shell_gpt.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/shell_gpt.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:26:30Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:54:17Z._

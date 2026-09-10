@@ -4,7 +4,7 @@
 
 A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
 
-![shell_gpt](https://repo.x-cmd.io/shell_gpt.svg)
+![shell_gpt](https://repo.x-cmd.io/shell_gpt.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,19 @@ x install shell_gpt
 - **最新版本**: `1.5.1` (2026-05-06)
 - **最近提交**: 2026-07-02
 - **Release 含资产**: 4 个
-- **发布时间**: 2026-05-06T04:29:55Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [shell_gpt-1.5.1-py3-none-any.whl](https://github.com/TheR1D/shell_gpt/releases/download/1.5.1/shell_gpt-1.5.1-py3-none-any.whl) | 29.5 KiB | `other` |
+| [shell_gpt-1.5.1-py3-none-any.whl.sigstore.json](https://github.com/TheR1D/shell_gpt/releases/download/1.5.1/shell_gpt-1.5.1-py3-none-any.whl.sigstore.json) | 9.0 KiB | `other` |
+| [shell_gpt-1.5.1.tar.gz](https://github.com/TheR1D/shell_gpt/releases/download/1.5.1/shell_gpt-1.5.1.tar.gz) | 28.5 KiB | `native/unknown` |
+| [shell_gpt-1.5.1.tar.gz.sigstore.json](https://github.com/TheR1D/shell_gpt/releases/download/1.5.1/shell_gpt-1.5.1.tar.gz.sigstore.json) | 9.0 KiB | `other` |
 
 ## 流行度
 
-- **Star**: 12,276 · **Fork**: 977 · **开放 issue**: 390 · **贡献者**: 47
+- **Star**: 12,276 · **Fork**: 976 · **开放 issue**: 390 · **贡献者**: 47
 
 ## 累计统计
 
@@ -61,4 +69,4 @@ shell_gpt 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:26:30Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:54:17Z._
