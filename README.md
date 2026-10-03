@@ -37,7 +37,7 @@ Total: **2,348** lines of code across **35** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 12,290 · **Forks**: 976 · **Open issues**: 391 · **Contributors**: 47
+- **Stars**: 12,291 · **Forks**: 975 · **Open issues**: 391 · **Contributors**: 47
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **2,348** lines of code across **35** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-08-03 | 0 | 0 | 4 | 0 | 4 | 0 |
-| 90d | 2026-07-04 | 0 | 0 | 6 | 0 | 4 | 0 |
-| last180d | 2026-04-05 | 1 | 7 | 11 | 6 | 7 | 9 |
-| 360d | 2025-10-07 | 2 | 12 | 14 | 11 | 12 | 13 |
-| last720d | 2024-10-12 | 3 | 17 | 26 | 37 | 34 | 23 |
+| 30d | 2026-09-03 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-08-04 | 0 | 0 | 4 | 0 | 4 | 0 |
+| 90d | 2026-07-05 | 0 | 0 | 6 | 0 | 4 | 0 |
+| last180d | 2026-04-06 | 1 | 7 | 11 | 6 | 7 | 9 |
+| 360d | 2025-10-08 | 2 | 12 | 14 | 11 | 12 | 13 |
+| last720d | 2024-10-13 | 3 | 17 | 26 | 37 | 34 | 23 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for shell_gpt lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T05:57:08Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:38:50Z._
