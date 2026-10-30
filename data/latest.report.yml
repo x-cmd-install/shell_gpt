@@ -7,7 +7,7 @@ about:
   latestVersion: "1.5.1"
   latestRelease: "1.5.1"
   latestPrerelease: ""
-  collectedAt: 2026-10-29T06:04:53Z
+  collectedAt: 2026-10-30T06:08:34Z
 timeline:
   created: 2023-01-18
   lastCommit: 2026-07-02
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-05-06
   lastPrerelease: 
 popularity:
-  star: 12296
+  star: 12297
   watcher: 93
-  fork: 970
+  fork: 971
   release: 31
   contributor: 47
   pullRequest: 260
@@ -29,7 +29,7 @@ language:
 totalBytes: 94443
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 0
     mergedPR: 0
     openPR: 2
@@ -37,7 +37,7 @@ recent:
     openIssue: 2
     commit: 0
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 0
     mergedPR: 0
     openPR: 2
@@ -45,7 +45,7 @@ recent:
     openIssue: 3
     commit: 0
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 0
     mergedPR: 0
     openPR: 6
@@ -53,7 +53,7 @@ recent:
     openIssue: 5
     commit: 0
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 1
     mergedPR: 5
     openPR: 11
@@ -61,7 +61,7 @@ recent:
     openIssue: 7
     commit: 8
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 2
     mergedPR: 11
     openPR: 14
@@ -69,7 +69,7 @@ recent:
     openIssue: 12
     commit: 12
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 3
     mergedPR: 17
     openPR: 27
@@ -85,7 +85,7 @@ total:
   commit: 130
 ---
 path: /home/runner/.x-repo/github.com/TheR1D/shell_gpt
-collectedAt: 2026-10-29T06:04:54Z
+collectedAt: 2026-10-30T06:08:34Z
 loc:
   Python:
     code: 2232
